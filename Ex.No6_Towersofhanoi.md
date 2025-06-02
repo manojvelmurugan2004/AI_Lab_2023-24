@@ -1,4 +1,4 @@
-# Ex.No: 6   Tower Of Hanoi   
+# Ex.No: 6   Towers Of Hanoi   
 ### DATE: 05/05/2025                                                                           
 ### REGISTER NUMBER : 212222220023
 ### AIM: 
